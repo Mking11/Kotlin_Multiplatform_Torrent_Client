@@ -1,0 +1,2 @@
+me/tamer/common/test/BuildConfig.java
+ me.tamer.common.test.BuildConfig

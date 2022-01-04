@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.tamer.common.test" >
+4
+5    <uses-sdk
+5-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:5:15-41
+7        android:targetSdkVersion="31" />
+7-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:11:5-15:70
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:11:22-75
+11        android:functionalTest="false"
+11-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:13:22-53
+13        android:label="Tests for me.tamer.common.test"
+13-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:15:22-68
+14        android:targetPackage="me.tamer.common.test" />
+14-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:12:22-66
+15
+16    <application
+16-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:7:5-9:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.5.0] /home/tamer/.gradle/caches/transforms-3/025527d8284bb5daa5ef85b88c55c7ca/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+18-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:7:18-43
+19        android:extractNativeLibs="false" >
+20        <uses-library android:name="android.test.runner" />
+20-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:8:9-60
+20-->/home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger14013895257031376171.xml:8:23-57
+21
+22        <provider
+22-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:26:9-34:20
+23            android:name="androidx.startup.InitializationProvider"
+23-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:27:13-67
+24            android:authorities="me.tamer.common.test.androidx-startup"
+24-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:28:13-68
+25            android:exported="false" >
+25-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:29:13-37
+26            <meta-data
+26-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:31:13-33:52
+27                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+27-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:32:17-85
+28                android:value="androidx.startup" />
+28-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:33:17-49
+29        </provider>
+30
+31        <receiver
+31-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:36:9-45:20
+32            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+32-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:37:13-76
+33            android:directBootAware="false"
+33-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:38:13-44
+34            android:enabled="true"
+34-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:39:13-35
+35            android:exported="true"
+35-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:40:13-36
+36            android:permission="android.permission.DUMP" >
+36-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:41:13-57
+37            <intent-filter>
+37-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:42:13-44:29
+38                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+38-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:43:17-91
+38-->[androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:43:25-88
+39            </intent-filter>
+40        </receiver>
+41    </application>
+42
+43</manifest>

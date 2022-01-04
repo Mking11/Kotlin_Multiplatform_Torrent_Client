@@ -1,0 +1,2 @@
+me/tamer/Kttorent/BuildConfig.java
+ me.tamer.Kttorent.BuildConfig

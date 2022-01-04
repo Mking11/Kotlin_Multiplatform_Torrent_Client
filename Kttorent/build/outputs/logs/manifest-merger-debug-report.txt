@@ -1,0 +1,248 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:2:1-14:12
+MERGED from [:common] /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.activity:activity-compose:1.3.0] /home/tamer/.gradle/caches/transforms-3/ad90ef7af988e804680dbf431f83fbdb/transformed/activity-compose-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/3cb5012cf4aedf279f2b502a4623cb9e/transformed/material-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/a5aeade1e6ed143f46d0af1b084aa6e9/transformed/material-ripple-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/74709bf9a1e5bc097f47a13612e3042e/transformed/foundation-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.0.0] /home/tamer/.gradle/caches/transforms-3/34d4ae32cafe759900055ee5845b3789/transformed/animation-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/7dd9cd62db895f07eca81e441ae5bdad/transformed/foundation-layout-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.0.0] /home/tamer/.gradle/caches/transforms-3/a6f2d3223bee826e8fd83d59d0a17252/transformed/animation-core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/c483e8617fb2923e8a023ca1f4debf06/transformed/material-icons-core-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/b88dec7e910b5eed47b7c34754558c82/transformed/ui-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/04a428371e78c26617c28ee7ca6bb219/transformed/ui-text-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/51af615cee2d81eb3669f82be949cfcf/transformed/ui-graphics-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/c548b29d1045c9042204f664787c8075/transformed/runtime-saveable-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/ed84fd622632b836b41baf01fc30bf57/transformed/ui-unit-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/d3ffcaa0fb80617b76afccadfeb984cd/transformed/ui-geometry-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/3a76e9a2f900a0ffad75cc3cca7671bc/transformed/runtime-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.3.0] /home/tamer/.gradle/caches/transforms-3/8aa0940933b540b97c0acf6e0ab25b9f/transformed/activity-ktx-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/tamer/.gradle/caches/transforms-3/6e8e32bd7ed405bb5d28d82b29fc07ec/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/tamer/.gradle/caches/transforms-3/98f982032e705ab4cc20200d55100610/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.1] /home/tamer/.gradle/caches/transforms-3/e1c6c6782984ec360404843b3b25e231/transformed/core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/tamer/.gradle/caches/transforms-3/88316c2d8b090dbb356d86f3238a1139/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/60ad14e8a9db4189649b1f0259d01c77/transformed/ui-util-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tamer/.gradle/caches/transforms-3/94540f6500a64244e1cd1396d9d7cc7d/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tamer/.gradle/caches/transforms-3/0bf418e93a0cc90f98375c3be6e9f44e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/tamer/.gradle/caches/transforms-3/c68458f878db90ddd94554b460d08387/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tamer/.gradle/caches/transforms-3/efd7f8b9f9368225550bc41ba77bc9c3/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tamer/.gradle/caches/transforms-3/24ca5ce465dff5e9545db12953d72855/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.3.0] /home/tamer/.gradle/caches/transforms-3/16c52a14a41c5a59a89e2fddf13b7602/transformed/activity-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/tamer/.gradle/caches/transforms-3/d45a1865eab867946e214a25e7e03667/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/tamer/.gradle/caches/transforms-3/f192502b00fb6ea26435870100b58b7a/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tamer/.gradle/caches/transforms-3/c904fc09c91b4888a3e2f511292a30a1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tamer/.gradle/caches/transforms-3/1f929aa5927dde88924699c103937bbb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tamer/.gradle/caches/transforms-3/1eb85e9c4489a5c399ef202d83e2e11b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/tamer/.gradle/caches/transforms-3/d6a2fae2238d08759fccd1dbe1b65dfd/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/tamer/.gradle/caches/transforms-3/acf963519eaf7d701887f15999ee3e33/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/tamer/.gradle/caches/transforms-3/7c8dc820d5f477a4647c900b05657c9f/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /home/tamer/.gradle/caches/transforms-3/025527d8284bb5daa5ef85b88c55c7ca/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/tamer/.gradle/caches/transforms-3/39b77bf8c505f5d7bd2ebce355185eef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/tamer/.gradle/caches/transforms-3/ab3190a2806bbb4458c12624d3c1ae2f/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/tamer/.gradle/caches/transforms-3/83acc5f3eedc395cc599501c895ff052/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/tamer/.gradle/caches/transforms-3/50b6827dadf803e0effec4f7667c6ac0/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/tamer/.gradle/caches/transforms-3/840ac0a24c5cfd28bab11413d13d496e/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tamer/.gradle/caches/transforms-3/ac4f04d1021437458d306f50e83747f0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tamer/.gradle/caches/transforms-3/7b4aae050049566a9092a14ab2c6ea86/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/tamer/.gradle/caches/transforms-3/20f45b8a38717f672610d9cb580593e9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/tamer/.gradle/caches/transforms-3/d4510d8aab803047b389c879422dba94/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+		INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:2:1-14:12
+		INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:2:1-14:12
+		INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:3:5-13:19
+MERGED from [androidx.core:core:1.5.0] /home/tamer/.gradle/caches/transforms-3/025527d8284bb5daa5ef85b88c55c7ca/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/tamer/.gradle/caches/transforms-3/025527d8284bb5daa5ef85b88c55c7ca/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/tamer/.gradle/caches/transforms-3/39b77bf8c505f5d7bd2ebce355185eef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/tamer/.gradle/caches/transforms-3/39b77bf8c505f5d7bd2ebce355185eef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/tamer/.gradle/caches/transforms-3/50b6827dadf803e0effec4f7667c6ac0/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/tamer/.gradle/caches/transforms-3/50b6827dadf803e0effec4f7667c6ac0/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/tamer/.gradle/caches/transforms-3/025527d8284bb5daa5ef85b88c55c7ca/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:5:13-39
+	android:allowBackup
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:4:13-40
+	android:theme
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:6:13-69
+activity#me.tamer.Kttorent.MainActivity
+ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:7:13-12:20
+	android:exported
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:7:52-75
+	android:name
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:7:23-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:8:13-11:29
+action#android.intent.action.MAIN
+ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:9:17-68
+	android:name
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:10:17-76
+	android:name
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml:10:27-74
+uses-sdk
+INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+MERGED from [:common] /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:common] /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.activity:activity-compose:1.3.0] /home/tamer/.gradle/caches/transforms-3/ad90ef7af988e804680dbf431f83fbdb/transformed/activity-compose-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.0] /home/tamer/.gradle/caches/transforms-3/ad90ef7af988e804680dbf431f83fbdb/transformed/activity-compose-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/3cb5012cf4aedf279f2b502a4623cb9e/transformed/material-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/3cb5012cf4aedf279f2b502a4623cb9e/transformed/material-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/a5aeade1e6ed143f46d0af1b084aa6e9/transformed/material-ripple-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/a5aeade1e6ed143f46d0af1b084aa6e9/transformed/material-ripple-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/74709bf9a1e5bc097f47a13612e3042e/transformed/foundation-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/74709bf9a1e5bc097f47a13612e3042e/transformed/foundation-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.0] /home/tamer/.gradle/caches/transforms-3/34d4ae32cafe759900055ee5845b3789/transformed/animation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.0] /home/tamer/.gradle/caches/transforms-3/34d4ae32cafe759900055ee5845b3789/transformed/animation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/7dd9cd62db895f07eca81e441ae5bdad/transformed/foundation-layout-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/7dd9cd62db895f07eca81e441ae5bdad/transformed/foundation-layout-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.0] /home/tamer/.gradle/caches/transforms-3/a6f2d3223bee826e8fd83d59d0a17252/transformed/animation-core-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.0] /home/tamer/.gradle/caches/transforms-3/a6f2d3223bee826e8fd83d59d0a17252/transformed/animation-core-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/c483e8617fb2923e8a023ca1f4debf06/transformed/material-icons-core-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/c483e8617fb2923e8a023ca1f4debf06/transformed/material-icons-core-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/b88dec7e910b5eed47b7c34754558c82/transformed/ui-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/b88dec7e910b5eed47b7c34754558c82/transformed/ui-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/04a428371e78c26617c28ee7ca6bb219/transformed/ui-text-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/04a428371e78c26617c28ee7ca6bb219/transformed/ui-text-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/51af615cee2d81eb3669f82be949cfcf/transformed/ui-graphics-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/51af615cee2d81eb3669f82be949cfcf/transformed/ui-graphics-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/c548b29d1045c9042204f664787c8075/transformed/runtime-saveable-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/c548b29d1045c9042204f664787c8075/transformed/runtime-saveable-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/ed84fd622632b836b41baf01fc30bf57/transformed/ui-unit-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/ed84fd622632b836b41baf01fc30bf57/transformed/ui-unit-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/d3ffcaa0fb80617b76afccadfeb984cd/transformed/ui-geometry-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/d3ffcaa0fb80617b76afccadfeb984cd/transformed/ui-geometry-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/3a76e9a2f900a0ffad75cc3cca7671bc/transformed/runtime-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/3a76e9a2f900a0ffad75cc3cca7671bc/transformed/runtime-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.0] /home/tamer/.gradle/caches/transforms-3/8aa0940933b540b97c0acf6e0ab25b9f/transformed/activity-ktx-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.0] /home/tamer/.gradle/caches/transforms-3/8aa0940933b540b97c0acf6e0ab25b9f/transformed/activity-ktx-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/tamer/.gradle/caches/transforms-3/6e8e32bd7ed405bb5d28d82b29fc07ec/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/tamer/.gradle/caches/transforms-3/6e8e32bd7ed405bb5d28d82b29fc07ec/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/tamer/.gradle/caches/transforms-3/98f982032e705ab4cc20200d55100610/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/tamer/.gradle/caches/transforms-3/98f982032e705ab4cc20200d55100610/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.1] /home/tamer/.gradle/caches/transforms-3/e1c6c6782984ec360404843b3b25e231/transformed/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /home/tamer/.gradle/caches/transforms-3/e1c6c6782984ec360404843b3b25e231/transformed/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/tamer/.gradle/caches/transforms-3/88316c2d8b090dbb356d86f3238a1139/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/tamer/.gradle/caches/transforms-3/88316c2d8b090dbb356d86f3238a1139/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/60ad14e8a9db4189649b1f0259d01c77/transformed/ui-util-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/60ad14e8a9db4189649b1f0259d01c77/transformed/ui-util-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tamer/.gradle/caches/transforms-3/94540f6500a64244e1cd1396d9d7cc7d/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tamer/.gradle/caches/transforms-3/94540f6500a64244e1cd1396d9d7cc7d/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tamer/.gradle/caches/transforms-3/0bf418e93a0cc90f98375c3be6e9f44e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tamer/.gradle/caches/transforms-3/0bf418e93a0cc90f98375c3be6e9f44e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/tamer/.gradle/caches/transforms-3/c68458f878db90ddd94554b460d08387/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/tamer/.gradle/caches/transforms-3/c68458f878db90ddd94554b460d08387/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tamer/.gradle/caches/transforms-3/efd7f8b9f9368225550bc41ba77bc9c3/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tamer/.gradle/caches/transforms-3/efd7f8b9f9368225550bc41ba77bc9c3/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tamer/.gradle/caches/transforms-3/24ca5ce465dff5e9545db12953d72855/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tamer/.gradle/caches/transforms-3/24ca5ce465dff5e9545db12953d72855/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.3.0] /home/tamer/.gradle/caches/transforms-3/16c52a14a41c5a59a89e2fddf13b7602/transformed/activity-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.0] /home/tamer/.gradle/caches/transforms-3/16c52a14a41c5a59a89e2fddf13b7602/transformed/activity-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/tamer/.gradle/caches/transforms-3/d45a1865eab867946e214a25e7e03667/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/tamer/.gradle/caches/transforms-3/d45a1865eab867946e214a25e7e03667/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/tamer/.gradle/caches/transforms-3/f192502b00fb6ea26435870100b58b7a/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/tamer/.gradle/caches/transforms-3/f192502b00fb6ea26435870100b58b7a/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tamer/.gradle/caches/transforms-3/c904fc09c91b4888a3e2f511292a30a1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tamer/.gradle/caches/transforms-3/c904fc09c91b4888a3e2f511292a30a1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tamer/.gradle/caches/transforms-3/1f929aa5927dde88924699c103937bbb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tamer/.gradle/caches/transforms-3/1f929aa5927dde88924699c103937bbb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tamer/.gradle/caches/transforms-3/1eb85e9c4489a5c399ef202d83e2e11b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tamer/.gradle/caches/transforms-3/1eb85e9c4489a5c399ef202d83e2e11b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/tamer/.gradle/caches/transforms-3/d6a2fae2238d08759fccd1dbe1b65dfd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/tamer/.gradle/caches/transforms-3/d6a2fae2238d08759fccd1dbe1b65dfd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tamer/.gradle/caches/transforms-3/acf963519eaf7d701887f15999ee3e33/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tamer/.gradle/caches/transforms-3/acf963519eaf7d701887f15999ee3e33/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/tamer/.gradle/caches/transforms-3/7c8dc820d5f477a4647c900b05657c9f/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/tamer/.gradle/caches/transforms-3/7c8dc820d5f477a4647c900b05657c9f/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/tamer/.gradle/caches/transforms-3/025527d8284bb5daa5ef85b88c55c7ca/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/tamer/.gradle/caches/transforms-3/025527d8284bb5daa5ef85b88c55c7ca/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/tamer/.gradle/caches/transforms-3/39b77bf8c505f5d7bd2ebce355185eef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/tamer/.gradle/caches/transforms-3/39b77bf8c505f5d7bd2ebce355185eef/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/tamer/.gradle/caches/transforms-3/ab3190a2806bbb4458c12624d3c1ae2f/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/tamer/.gradle/caches/transforms-3/ab3190a2806bbb4458c12624d3c1ae2f/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/tamer/.gradle/caches/transforms-3/83acc5f3eedc395cc599501c895ff052/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/tamer/.gradle/caches/transforms-3/83acc5f3eedc395cc599501c895ff052/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/tamer/.gradle/caches/transforms-3/50b6827dadf803e0effec4f7667c6ac0/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/tamer/.gradle/caches/transforms-3/50b6827dadf803e0effec4f7667c6ac0/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/tamer/.gradle/caches/transforms-3/840ac0a24c5cfd28bab11413d13d496e/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/tamer/.gradle/caches/transforms-3/840ac0a24c5cfd28bab11413d13d496e/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tamer/.gradle/caches/transforms-3/ac4f04d1021437458d306f50e83747f0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tamer/.gradle/caches/transforms-3/ac4f04d1021437458d306f50e83747f0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tamer/.gradle/caches/transforms-3/7b4aae050049566a9092a14ab2c6ea86/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tamer/.gradle/caches/transforms-3/7b4aae050049566a9092a14ab2c6ea86/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/tamer/.gradle/caches/transforms-3/20f45b8a38717f672610d9cb580593e9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/tamer/.gradle/caches/transforms-3/20f45b8a38717f672610d9cb580593e9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/tamer/.gradle/caches/transforms-3/d4510d8aab803047b389c879422dba94/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/tamer/.gradle/caches/transforms-3/d4510d8aab803047b389c879422dba94/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+		INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+		ADDED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+		INJECTED from /home/tamer/IdeaProjects/Kotlin_Torrent_Multiplatform/Kttorent/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/tamer/.gradle/caches/transforms-3/50b6827dadf803e0effec4f7667c6ac0/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/tamer/.gradle/caches/transforms-3/50b6827dadf803e0effec4f7667c6ac0/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-beta02] /home/tamer/.gradle/caches/transforms-3/5cf9552e06f47024da3b33895f205aa4/transformed/profileinstaller-1.1.0-beta02/AndroidManifest.xml:43:25-88
